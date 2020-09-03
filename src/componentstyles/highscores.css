@@ -1,0 +1,19 @@
+.highscoreContainer{
+    color: whitesmoke;
+    /* width:80%; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    
+}
+
+.highScoreHeading{
+    font-size: 50px
+}
+th{
+    font-size: 32px;
+}
+td{
+    font-size: 24px;
+}
